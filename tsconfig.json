@@ -23,6 +23,7 @@
       "@types": ["src/types/*"],
       "@utils": ["src/utils/*"],
       "@apis": ["src/apis/*"],
+      "@hooks": ["src/hooks/*"],
     }
   },
   "include": ["src"],
